@@ -1,0 +1,3 @@
+The little model looked at the text and tried to guess the next symbol.
+It did not understand the world, but it could learn patterns from examples.
+Step by step, token by token, the tiny transformer learned to continue.
